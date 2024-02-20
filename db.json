@@ -115,18 +115,6 @@
     {
       "title": "npm",
       "amountOfVideos": 98
-    },
-    {
-      "title": "Webpack",
-      "amountOfVideos": 120
-    },
-    {
-      "title": "Mongoose",
-      "amountOfVideos": 87
-    },
-    {
-      "title": "tkinter",
-      "amountOfVideos": 124
     }
   ]
 }

@@ -115,6 +115,90 @@
     {
       "title": "npm",
       "amountOfVideos": 98
+    },
+    {
+      "title": "Webpack",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Mongoose",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "tkinter",
+      "amountOfVideos": 124
+    },
+    {
+      "title": "Google Apps Script",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Web Scraping",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Spring Security",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "filter",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "https",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Woo Commerce",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Xamarin Forms",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Web Socket",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Android Recycler View",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Google Sheets",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Excel Formula",
+      "amountOfVideos": 111
+    },
+    {
+      "title": "SASS",
+      "amountOfVideos": 93
+    },
+    {
+      "title": "Hive",
+      "amountOfVideos": 107
+    },
+    {
+      "title": "Java 8",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Redis",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "CMake",
+      "amountOfVideos": 102
     }
   ]
 }
